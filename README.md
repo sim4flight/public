@@ -1,5 +1,4 @@
-# sim4flight
-Bringing back the Flight in Flight Sim
+# sim4flight - Bringing back the Flight in Flight Sim
 
 ## Aircraft
 We are developing a payware study level A350XWB for MSFS2020 and Prepar3D. With the support of Airbus and airlines operating the A350 we were able to gather valuable documentation for the A350 which will be essential to this successful development cycle.
