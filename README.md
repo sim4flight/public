@@ -11,7 +11,7 @@ Our dedicated livery painting team provides you with high quality liveries for a
 ![Sample Livery](https://cdn.discordapp.com/attachments/714952095270436874/765261982809980928/b738_-_2020-10-11_20.23.42.png)
 
 ## Sceneries
-Not only are we developing an aircraft but we are also are creating high quality scenery for you to download and enjoy!
+Not only are we developing an aircraft but we are also are developing high quality sceneries for you to download and enjoy!
 
 ## Links
 [Website](https://sim4flight.com/)
